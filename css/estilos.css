@@ -1,0 +1,68 @@
+body p{
+	color: green;
+	}
+
+body{
+	background-color: black;
+	color:antiquewhite !important;
+	font-family: Verdana;
+}
+
+h1 {
+	font-family: Arial;
+}
+
+a {
+	color: inherit;
+}
+
+div{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+img{
+	background: white;
+}
+nav{
+	position: relative;
+	z-index: 1;
+}
+
+
+.navbar-menu{
+height: 100px;
+}
+
+nav h1{
+	display: inline-block;
+	line-height: 50px;
+	padding: 5px 10px;
+	position: relative;
+
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+}
+.banner{
+	height: 130vh;
+	width: 90vw;
+	position: relative;
+	margin: 0px auto;
+}
+.banner p{
+	color: green;
+}
+.banner img{
+	width: 100%;
+	height: 90%;
+
+}
+
+body{
+	color: red;
+
+}
+p{
+	color: blue;
+
+}
